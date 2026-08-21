@@ -46,15 +46,6 @@
 - UCI HAR Dataset Dataset link: https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
 ---
-## Framework Overview
-
-The architecture of the WS-HGAR model, combining sensor fusion, hybrid deep learning, and stacking ensemble:
-
-![Framework Overview](figures/ws-hgar-framework.png)
-
-*Figure 1: End-to-end structure of the proposed WS-HGAR model as described in the paper.*
-
----
 
 ## How to Run
 
